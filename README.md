@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BibhansuBallhavaPrusty
-- 👀 I’m interested in data science.
-- 🌱 I haven't currently started the tech journey.
+- 👀 Competitive Programmer.
+- 🌱 An undergraduate student at NIT Rourkela.
 - 💞️ I’m looking to collaborate on programming and ahead.
-- 📫 You can contact me in whatsapp: 8260983268
+- 📫 You can contact me on : bibhansu0000@gmail.com
 
 <!---
 BibhansuBallhavaPrusty/BibhansuBallhavaPrusty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
